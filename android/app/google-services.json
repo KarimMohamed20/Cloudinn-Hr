@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "938051957197",
+    "firebase_url": "https://cloudinhr.firebaseio.com",
+    "project_id": "cloudinhr",
+    "storage_bucket": "cloudinhr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938051957197:android:39f5b0d681732e5e",
+        "android_client_info": {
+          "package_name": "com.monkey200510.cloudinnhr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938051957197-dp48injt70o856eert5b770n16tudf71.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.monkey200510.cloudinnhr",
+            "certificate_hash": "d5384aaffb78ea3af5d86886f444cbeb1d9df91b"
+          }
+        },
+        {
+          "client_id": "938051957197-iv5vcs9328in403382pvsism75itfo7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB8MsO4_OIz5tfLIGS7KOKhJ4yUSWttxE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938051957197-iv5vcs9328in403382pvsism75itfo7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
